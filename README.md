@@ -12,7 +12,7 @@
     📌 I'm a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.  <br> <br>
     📌  <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
     📌  Previously <b>Mentor</b> at <a href="https://github.com/StudentCode-in"> <b>@StudentCodein</b></a>  <br>
-   
+   📌  Former <b>React Native Intern</b> at <a href="https://www.mxpertz.com/"> <b>Mxpertz,Indore</b></a>  <br>
   </em>  
 </p>
 
