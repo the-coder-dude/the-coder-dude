@@ -26,5 +26,6 @@
 - ⚡ Fun fact: I watched Harry Potter more than 50 times 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-coder-dude" alt="prateekpardeshi" /> </p>
 
 ![Prateek's Github](https://github-readme-stats.vercel.app/api?username=the-coder-dude&show_icons=true&hide_border=true)
