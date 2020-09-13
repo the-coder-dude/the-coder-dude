@@ -16,29 +16,15 @@
   </em>  
 </p>
 
-- 🔭 I’m currently working on Ecommerce App
-- 🌱 I’m currently practicing problems on Leetcode
+- 🔭 I’m currently working on [E-commerce App](https://github.com/the-coder-dude/Product-Scanner-App)
+- 🌱 I’m currently practicing problems on Leetcode & learning **GraphQL**
 - 👯 I’m looking to collaborate on React and Node Projects
 - 🤔 I’m looking for help with [Gyaan Portal](https://github.com/Gyaan-Portal)
 - 💬 Ask me about JavaScript, ReactJS and Node
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prateek-pardeshi6/), [Mail](mailto:pp7073@srmist.edu.in)
 - 😄 Pronouns: **he/him/his**
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I watched Harry Potter more than 50 times 
 
-<a href="https://twitter.com/reach_prateek">
-  <img align="left" alt="Prateek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/the-coder-dude">
-  <img align="left" alt="Prateek's github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/prateek-pardeshi6/">
-  <img align="left" alt="Prateek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/prateek.pardeshi/">
-  <img align="left" alt="Prateek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://medium.com/">
-  <img align="left" alt="Prateek's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+
 
 ![Prateek's Github](https://github-readme-stats.vercel.app/api?username=the-coder-dude&show_icons=true&hide_border=true)
