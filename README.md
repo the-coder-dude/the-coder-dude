@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on [E-commerce App](https://github.com/the-coder-dude/Product-Scanner-App)
 - 🌱 I’m currently practicing problems on Leetcode & learning **GraphQL**
 - 👯 I’m looking to collaborate on React and Node Projects
-- 🤔 I’m looking for help with [Gyaan Portal](https://github.com/Gyaan-Portal)
+- 🤔 I’m looking for help with [My Travel History](https://github.com/the-coder-dude/My-Travel-History)
 - 💬 Ask me about JavaScript, ReactJS and Node
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prateek-pardeshi6/), [Mail](mailto:pp7073@srmist.edu.in)
 - 😄 Pronouns: **he/him/his**
