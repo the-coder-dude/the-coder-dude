@@ -24,7 +24,7 @@
 - 💬 Ask me about JavaScript, ReactJS and Node
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prateek-pardeshi6/), [Mail](mailto:pp7073@srmist.edu.in)
 - 😄 Pronouns: **he/him/his**
-- ⚡ Fun fact: I watched Harry Potter more than 50 times 
+- ⚡ Fun fact: I've watched Harry Potter more than 50 times 
 
 
 
