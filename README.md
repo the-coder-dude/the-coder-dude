@@ -12,7 +12,7 @@
     📌 I'm a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.  <br> <br>
     📌  <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
     📌  Previously <b>Mentor</b> at <a href="https://github.com/StudentCode-in"> <b>@StudentCodein</b></a>  <br>
-    📌  <b>Participant</b> at <a href="https://github.com/GirlScriptSummerOfCode"> <b>@GirlScriptSummerOfCode</b>'20</a>  <br>
+    📌  <b>Participant</b> at <a href="https://gssoc.tech"> <b>@GirlScriptSummerOfCode</b>'20</a>  <br>
    📌  Former <b>React Native Intern</b> at <a href="https://www.mxpertz.com/"> <b>Mxpertz,Indore</b></a>  <br>
   </em>  
 </p>
@@ -28,6 +28,9 @@
 
 
 
+<p align= "center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=the-coder-dude&show_icons=true&hide_border=true" width="47.5%" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=the-coder-dude" alt="the-coder-dude" width="47.5%" />
+<p/>
 
-![Prateek's Github](https://github-readme-stats.vercel.app/api?username=the-coder-dude&show_icons=true&hide_border=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-coder-dude" alt="prateekpardeshi" /> </p>
