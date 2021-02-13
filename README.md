@@ -10,14 +10,15 @@
 <p>
   <em>
     📌 I'm a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.  <br> <br>
-    📌  <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
+    📌  <b>Open Source Fellow</b> at <a href="https://fellowship.hackillinois.org/"> <b>HackIllinois</b></a> 🚀 <br>
+    📌  Former <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
     📌  Previously <b>Mentor</b> at <a href="https://github.com/StudentCode-in"> <b>@StudentCodein</b></a>  <br>
     📌  <b>Participant</b> at <a href="https://gssoc.tech"> <b>@GirlScriptSummerOfCode</b>'20</a>  <br>
    📌  Former <b>React Native Intern</b> at <a href="https://www.mxpertz.com/"> <b>Mxpertz,Indore</b></a>  <br>
   </em>  
 </p>
 
-- 🔭 I’m currently working on [E-commerce App](https://github.com/the-coder-dude/Product-Scanner-App)
+- 🔭 I’m currently working on [MargDarshan App](https://github.com/the-coder-dude/ServerMonks-MargDarshan)
 - 🌱 I’m currently practicing problems on Leetcode & learning **GraphQL**
 - 👯 I’m looking to collaborate on React and Node Projects
 - 🤔 I’m looking for help with [My Travel History](https://github.com/the-coder-dude/My-Travel-History)
