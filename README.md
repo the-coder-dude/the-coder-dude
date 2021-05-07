@@ -10,7 +10,7 @@
 <p>
   <em>
     📌 I'm a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.  <br> <br>
-    📌  <b>Open Source Fellow</b> at <a href="https://fellowship.hackillinois.org/"> <b>HackIllinois</b></a> 🚀 <br>
+    📌  Former <b>Open Source Fellow</b> at <a href="https://fellowship.hackillinois.org/"> <b>HackIllinois</b></a> 🚀 <br>
     📌  Former <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
     📌  Previously <b>Mentor</b> at <a href="https://github.com/StudentCode-in"> <b>@StudentCodein</b></a>  <br>
     📌  <b>Participant</b> at <a href="https://gssoc.tech"> <b>@GirlScriptSummerOfCode</b>'20</a>  <br>
@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on React and Node Projects
 - 🤔 I’m looking for help with [My Travel History](https://github.com/the-coder-dude/My-Travel-History)
 - 💬 Ask me about JavaScript, ReactJS and Node
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prateek-pardeshi6/), [Mail](mailto:pp7073@srmist.edu.in)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prateek-pardeshi6/), [Mail](mailto:hi@pp0.co)
 - 😄 Pronouns: **he/him/his**
 - ⚡ Fun fact: I've watched Harry Potter more than 50 times 
 
