@@ -10,6 +10,7 @@
 <p>
   <em>
     📌 I'm a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.  <br> <br>
+    📌  <b>Google Summer of Code '21</b> Student at <a href="https://pidgin.im/"> <b>Pidgin Messenger</b></a> 🛠 <br>
     📌  Former <b>Open Source Fellow</b> at <a href="https://fellowship.hackillinois.org/"> <b>HackIllinois</b></a> 🚀 <br>
     📌  Former <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
     📌  Previously <b>Mentor</b> at <a href="https://github.com/StudentCode-in"> <b>@StudentCodein</b></a>  <br>
@@ -18,11 +19,11 @@
   </em>  
 </p>
 
-- 🔭 I’m currently working on [MargDarshan App](https://github.com/the-coder-dude/ServerMonks-MargDarshan)
+- 🔭 I’m currently working on [Stealth Project](https://www.chicagonow.com/free-your-mind/files/2020/09/shh-emoji.jpg)
 - 🌱 I’m currently practicing problems on Leetcode & learning **GraphQL**
-- 👯 I’m looking to collaborate on React and Node Projects
+- 👯 I’m looking to collaborate on React and Node.js Projects
 - 🤔 I’m looking for help with [My Travel History](https://github.com/the-coder-dude/My-Travel-History)
-- 💬 Ask me about JavaScript, ReactJS and Node
+- 💬 Ask me about JavaScript, ReactJS, Express, Node and MongoDB
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prateek-pardeshi6/), [Mail](mailto:hi@pp0.co)
 - 😄 Pronouns: **he/him/his**
 - ⚡ Fun fact: I've watched Harry Potter more than 50 times 
