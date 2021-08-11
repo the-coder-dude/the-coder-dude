@@ -9,7 +9,7 @@
 
 <p>
   <em>
-    📌 I'm a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.  <br> <br>
+    📌 I'm a Final Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.  <br> <br>
     📌  Former <b>Open Source Fellow</b> at <a href="https://fellowship.hackillinois.org/"> <b>HackIllinois</b></a> 🚀 <br>
     📌  Former <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
     📌  Previously <b>Mentor</b> at <a href="https://github.com/StudentCode-in"> <b>@StudentCodein</b></a>  <br>
