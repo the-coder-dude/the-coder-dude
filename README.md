@@ -9,7 +9,7 @@
 
 <p>
   <em>
-    📌 I'm a <b>Software Engineer (Backend)</b> at <a href="https://www.zuora.com/"> <b>Zuora</a>.  <br> <br>
+    📌 I'm a <b>Software Engineer 2</b> at <a href="https://www.oracle.com/cloud"> <b>Oracle Cloud</a>.  <br> <br>
     📌  A <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>. CS graduate-2022  <br>
     📌  Former <b>Google Summer of Code</b> selected Student 🚀 <br>
     📌  Former <b>Open Source Fellow</b> at <a href="https://fellowship.hackillinois.org/"> <b>HackIllinois</b></a> 🚀 <br>
