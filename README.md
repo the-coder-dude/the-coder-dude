@@ -16,8 +16,7 @@
     📌  Former <b>Open Source Fellow</b> at <a href="https://fellowship.hackillinois.org/"> <b>HackIllinois</b></a> 🚀 <br>
     📌  Former <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
     📌  Previously <b>Mentor</b> at <a href="https://github.com/StudentCode-in"> <b>@StudentCodein</b></a>  <br>
-    📌  <b>Participant</b> at <a href="https://gssoc.tech"> <b>@GirlScriptSummerOfCode</b>'20</a>  <br>
-   📌  Former <b>React Native Intern</b> at <a href="https://www.mxpertz.com/"> <b>Mxpertz,Indore</b></a>  <br>
+    📌  <b>Contributor </b> at <a href="https://gssoc.tech"> <b>@GirlScriptSummerOfCode</b>'20</a>  <br>
   </em>  
 </p>
 
