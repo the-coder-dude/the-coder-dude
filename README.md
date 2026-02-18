@@ -9,7 +9,7 @@
 
 <p>
   <em>
-    📌 I'm a <b>Software Engineer 2 (MTS)</b> at <a href="https://www.oracle.com/cloud"> <b>Oracle Cloud</a>.  <br> <br>
+    📌 I'm a <b>Software Engineer 2 (MTS)</b> at <a href="https://www.oracle.com/cloud"> <b>Oracle Cloud</a>. <br> <br>
     📌  Previously worked at <b>Zuora, and State Street</b> <br>
     📌  <b>M.Tech in Artificial Intelligence and Machine Learning</b> from <a href="https://www.bits-pilani.ac.in/"> <b>BITS</b>, Pilani</a>.  <br>
     📌  <b>B.Tech in Computer Science</b> from <a href="https://www.srmist.edu.in/"> <b>SRM IST</b>, Kattankulatur</a>.  <br>
