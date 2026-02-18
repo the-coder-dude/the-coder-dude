@@ -11,8 +11,8 @@
   <em>
     📌 I'm a <b>Software Engineer 2 (MTS)</b> at <a href="https://www.oracle.com/cloud"> <b>Oracle Cloud</a>.  <br> <br>
     📌  Previously worked at <b>Zuora, and State Street</b> <br>
-    📌  <b>M.Tech in Artificial Intelligence and Machine Learning</b> from <a href="https://www.bits-pilani.ac.in/"> <b>Birla Institute of Technology and Science</b>, Pilani</a>.  <br>
-    📌  <b>B.Tech in Computer Science</b> from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.  <br>
+    📌  <b>M.Tech in Artificial Intelligence and Machine Learning</b> from <a href="https://www.bits-pilani.ac.in/"> <b>BITS</b>, Pilani</a>.  <br>
+    📌  <b>B.Tech in Computer Science</b> from <a href="https://www.srmist.edu.in/"> <b>SRM IST</b>, Kattankulatur</a>.  <br>
     📌  Former <b>Google Summer of Code</b> selected Student 🚀 <br>
     📌  Former <b>Open Source Fellow</b> at <a href="https://fellowship.hackillinois.org/"> <b>HackIllinois</b></a> 🚀 <br>
     📌  Former <b>Engineering Manager</b> at <a href="https://www.risesummer2020.org/team3"> <b>Rise Summer Program 2020</b></a>  <br>
